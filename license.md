@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download ArchUnitPython](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/archunitpython)
+[![Download ArchUnitPython](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/39ByusBgEDV9P7AwK)
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
 
-[![Download ArchUnitPython](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/archunitpython)
+[![Download ArchUnitPython](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/39ByusBgEDV9P7AwK)
 
 </div>
 
@@ -381,7 +381,7 @@ Maintain clean Python architecture for free. **ArchUnitPython Updated** gives yo
 
 <div align="center">
 
-[![Download ArchUnitPython](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/archunitpython)
+[![Download ArchUnitPython](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/39ByusBgEDV9P7AwK)
 
 **Version 0.4.0** — Free Python architecture testing tool. May 2026 update. Zero cost. No payment.
 
